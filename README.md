@@ -19,3 +19,4 @@
 *For better understanding about how the above mechanisms work, visit the following links.*
 
 - [RNN and LSTM's](https://skymind.ai/wiki/lstm)
+- [Attention](https://skymind.ai/wiki/attention-mechanism-memory-network)
