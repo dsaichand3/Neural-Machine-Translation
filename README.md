@@ -1,6 +1,6 @@
 # Neural Machine Translation
 
-*Different types of models used during translation are:-*
+*Different techniques used during translation are:-*
 
 ## Simple RNN
 
