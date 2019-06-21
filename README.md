@@ -10,7 +10,7 @@
 
 ## Encoder-Decoder
 
-## Ensemble Model
+## Custom Model
 
 ## LSTM
 
