@@ -15,3 +15,7 @@
 ## LSTM
 
 ## Attention Model
+
+*For better understanding about how the above mechanisms work, visit the following links.*
+
+- [RNN and LSTM's](https://skymind.ai/wiki/lstm)
