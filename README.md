@@ -20,3 +20,7 @@
 
 - [Understanding RNN](https://www.youtube.com/watch?v=_h66BW-xNgk)
 - [Attention](https://skymind.ai/wiki/attention-mechanism-memory-network)
+
+*Important things to note in RNN*
+
+![alt image](https://github.com/dsaichand3/Neural-Machine-Translation/blob/master/images/RNN.PNG)
