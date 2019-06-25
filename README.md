@@ -1,22 +1,22 @@
 # Neural Machine Translation
 
-*Different techniques used during translation are:-*
+## Different techniques used during translation are:
 
-### Simple RNN
+- Simple RNN
 
-### Using Word Embeddings
+- Using Word Embeddings
 
-### Bi-Directional RNN
+- Bi-Directional RNN
 
-### Encoder-Decoder
+- Encoder-Decoder
 
-### Custom
+- Custom
 
-### LSTM
+- LSTM
 
-### Attention Model
+- Attention Model
 
-*For better understanding about how the above mechanisms work, visit the following links.*
+## For better understanding about how the above mechanisms work, visit the following links.
 
 - [Understanding RNN](https://www.youtube.com/watch?v=_h66BW-xNgk)
 - [Attention](https://skymind.ai/wiki/attention-mechanism-memory-network)
