@@ -16,7 +16,7 @@
 
 - Attention Model
 
-### For better understanding about how the above mechanisms work, visit the following links:
+### To know more about how the above mechanisms work, visit the following links:
 
 - [Understanding RNN](https://www.youtube.com/watch?v=_h66BW-xNgk)
 - [Attention](https://skymind.ai/wiki/attention-mechanism-memory-network)
